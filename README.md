@@ -25,11 +25,11 @@ their name, type and dimension.
 * Uses Kotlin Coroutines for handling asynchronous tasks and background operations.
 ## Demo
 ***
-![Rick And Morty Demo](demo/demo1.gif)
-![Rick And Morty Demo](demo/demo2.gif)
-![Rick And Morty Demo](demo/demo3.gif)
-![Rick And Morty Demo](demo/demo4.gif)
-![Rick And Morty Demo](demo/demo5.gif)
-![Rick And Morty Demo](demo/demo6.gif)
-![Rick And Morty Demo](demo/demo7.gif)
-![Rick And Morty Demo](demo/demo8.gif)
+<img src="/demo/demo1.gif" width="300"/>
+<img src="/demo/demo2.gif" width="300"/>
+<img src="/demo/demo3.gif" width="300"/>
+<img src="/demo/demo4.gif" width="300"/>
+<img src="/demo/demo5.gif" width="300"/>
+<img src="/demo/demo6.gif" width="300"/>
+<img src="/demo/demo7.gif" width="300"/>
+<img src="/demo/demo8.gif" width="300"/>
