@@ -17,13 +17,10 @@ their name, type and dimension.
 * Built on MVVM architecture pattern.
 * Built using Repository pattern.
 * Uses [Retrofit](https://square.github.io/retrofit/) for making API calls.
-* Uses [Room](https://developer.android.com/jetpack/androidx/releases/room) for storing favorite 
-* characters
-* Uses [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for 
-* dependency injections
+* Uses [Room](https://developer.android.com/jetpack/androidx/releases/room) for storing favorite characters
+* Uses [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for dependency injections
 * Uses [Jetpack Compose](https://developer.android.com/jetpack/compose) for UI
-* Uses [Compose Destinations](https://github.com/raamcosta/compose-destinations) library for 
-* navigation
+* Uses [Compose Destinations](https://github.com/raamcosta/compose-destinations) library for navigation
 * Uses [Coil](https://coil-kt.github.io/coil/compose/) for image loading
 * Uses Kotlin Coroutines for handling asynchronous tasks and background operations.
 ## Demo
