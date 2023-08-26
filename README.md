@@ -21,7 +21,7 @@ their name, type and dimension.
 * Uses [Coil](https://coil-kt.github.io/coil/compose/) for image loading
 * Uses Kotlin Coroutines for handling asynchronous tasks and background operations.
 ## Demo
-<img src="/demo/demo1.gif" width="300"/><img src="/demo/demo2.gif" width="300"/>
-<img src="/demo/demo3.gif" width="300"/><img src="/demo/demo4.gif" width="300"/>
-<img src="/demo/demo5.gif" width="300"/><img src="/demo/demo6.gif" width="300"/>
-<img src="/demo/demo7.gif" width="300"/><img src="/demo/demo8.gif" width="300"/>
+<img src="/demo/demo1.gif" width="300" height="500"/><img src="/demo/demo2.gif" width="300" height="500"/>
+<img src="/demo/demo3.gif" width="300" height="500"/><img src="/demo/demo4.gif" width="300" height="500"/>
+<img src="/demo/demo5.gif" width="300" height="500"/><img src="/demo/demo6.gif" width="300" height="500"/>
+<img src="/demo/demo7.gif" width="300" height="500"/><img src="/demo/demo8.gif" width="300" height="500"/>
