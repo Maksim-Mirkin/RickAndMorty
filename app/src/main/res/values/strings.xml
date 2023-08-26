@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Rick And Morty</string>
+    <string name="click_for_details">Click for details!</string>
+    <string name="origin">"Origin: "</string>
+    <string name="last_known_location">"Last known location: "</string>
+    <string name="participants">Participants</string>
+    <string name="back">Back</string>
+    <string name="search_character">Search character</string>
+    <string name="unknown">Unknown</string>
+    <string name="genderless">Genderless</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="dead">Dead</string>
+    <string name="alive">Alive</string>
+    <string name="status">Status</string>
+    <string name="type">Type</string>
+    <string name="species">Species</string>
+    <string name="search_episode">Search episode</string>
+    <string name="dimension">Dimension</string>
+    <string name="search_locations">Search locations</string>
+    <string name="participated">Participated</string>
+    <string name="about_us">About Us</string>
+    <string name="unexpected_error">Something gone wrong. Please try again later.</string>
+    <string name="no_characters_error">Your search did not match any characters.</string>
+    <string name="no_episodes_error">Your search did not match any episodes.</string>
+    <string name="no_locations_error">Your search did not match any locations.</string>
+    <string name="empty_database_error">There is no characters.</string>
+    <string name="about_us_extended">This is an Android application based on sitcom of the same name that displays characters, episodes and locations.</string>
+</resources>
